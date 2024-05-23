@@ -15,7 +15,7 @@ LOG
 
 10:38 2024-05-23
 
-* I somehow managed not to keep logs longer than a single part of a single day and now it's been 8 years almost to the day I haven't kept logs here;
+* I somehow managed not to keep logs longer than a single part of a single day and now it's been 10 years almost to the day I haven't kept logs here;
 * I say *kept logs HERE* because I've been keeping countless logs elsewhere;
 * As I wrote a lot about in my [__*General Workflow Folder*__](https://github.com/antiface/Documentation/tree/master/METHODS/GeneralWorkflow) (in the [*Methods Folder*](https://github.com/antiface/Documentation/tree/master/METHODS) in the [*Documentation Repository*](https://github.com/antiface/Documentation)), I keep what I call __*distributed logs*__ or __*ledgers*__ if you will, in numerous different places, online and offline;
 * The basic idea is in *distributing the risk*, by adding a necessary __*REDUNDANCY*__ in the case of extreme failure;
