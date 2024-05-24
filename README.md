@@ -37,7 +37,7 @@ LOG
 * That's it for now, I'm going to try to finish Soren Kierkegaard's __*"The Point of View of My Work as an Author"*__; it's quite warm out, a beautiful spring day, it inspires the spirit and warms the heart;
 
 04:47 2024-05-24
-* I just posted my latest digital painting called "GEMSTONES OF THE MIND: SECRETS OF THE ETERNAL LIBRARY";
+* I just posted my latest digital painting called "GEMSTONES OF THE MIND: SECRETS OF THE ETERNAL LIBRARY" on various social media sites;
 * I wrote an original short story on the subject which I will post a little later on Medium and Substack since I published my last piece on those sites only 15 hours ago; I don't want people to think I am spamming them with content; in any case, I'm extremely productive these days; I write dozens of pages of prose per day, I am constantly making visual digital designs or digital paintings, and I also have time to make works of sound design or electronic music;
 * Yesterday evening, I took myself out on a date; I went to the restaurant; had a gyro and some friend; it was good;
 * I want to make another book for my own personal reference as I once did with all my philosophical notes, and one with all my "novelistic" writings, from the period between 2001 and 2004;
