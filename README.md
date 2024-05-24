@@ -35,8 +35,17 @@ LOG
 * Last night, I watched the first episode in a *Limited Series* on Netflix called __*The Andy Warhol Diaries*__, which consists of excerpts from Andy Warhol's actual diaries, read by a robotic voice imitating his voice; it feels a little too robotic at times, but with the captivating images, it was a worthwhile thing to watch; I'm happy I watched it, I felt enriched by the experience; now I want to know more about Andy Warhol as a person and as an artist and entrepreneur; he says somewhere in what I saw that he saw art AS business; this idea fascinates me beyond mention; I will investigate it in the revival of an old project called the *Legal Tender Project*, where I played with the look & feel of old paper money in mixed media pieces I was creating, in the early 2000s when I lived in Montreal with my friend A.;
 * I also, before finding out about the Netflix Series on him, read about the intriguing intersection between Warhol and religion, religious sentiment, contemplation, prayer, mystery itself; it seems he was even commissioned works by the Catholic Church; I had read a while back something about the *"secret life"* of Andy Warhol or something like that, I forget how the author put it; it appears he went to mass regularly over the course of many years, perhaps maybe the course of his life; I empathize deeply with this aspect of Andy Warhol that I was never really sure about, though I suspected there was something worth my while in investigating;
 * That's it for now, I'm going to try to finish Soren Kierkegaard's __*"The Point of View of My Work as an Author"*__; it's quite warm out, a beautiful spring day, it inspires the spirit and warms the heart;
+
+04:47 2024-05-24
+* I just posted my latest digital painting called "GEMSTONES OF THE MIND: SECRETS OF THE ETERNAL LIBRARY";
+* I wrote an original short story on the subject which I will post a little later on Medium and Substack since I published my last piece on those sites only 15 hours ago; I don't want people to think I am spamming them with content; in any case, I'm extremely productive these days; I write dozens of pages of prose per day, I am constantly making visual digital designs or digital paintings, and I also have time to make works of sound design or electronic music;
+* Yesterday evening, I took myself out on a date; I went to the restaurant; had a gyro and some friend; it was good;
+* I want to make another book for my own personal reference as I once did with all my philosophical notes, and one with all my "novelistic" writings, from the period between 2001 and 2004;
+* I need a paper copy so I can really study it properly; I'm in the process of editing those works so I can publish them probably as PDF files on the [my Academia profile](https://independent.academia.edu/AlexGagnon);
+* They are calling for rain today, so I might not get to take my morning walk unless of course I go out with my umbrella; I don't really like using the umbrella, though, especially if it's raining hard; we'll see how the day progresses;
+* Last night, I watched another episode from the Andy Warhol Diaries Limited Series on Netflix; it was just as great as the first episode; I also started reading his actual Diaries, which are also quite lovely; I'm getting to know Andy Warhol from a whole new perspective, though frankly I must admit that I didn't know him very well to begin with, actually knowing very little about him OR his art; I don't know if that makes me an imbecile or whatnot, for not knowing much about the art works of one of the biggest artists, if not THE biggest artist of the 20th century;
 * *More to come...*
-  
+
 - - - - - - -
 
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
