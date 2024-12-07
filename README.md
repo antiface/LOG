@@ -64,6 +64,13 @@ LOG
 * I want to go on "hiatus", I keep saying that, from my art practice, in some measure; I am producing too much in a sense, and I fear I might burn out; that's partly what happened Sunday and Monday, I was really exhausted from all the productive activity; I'm posting too much online, too, I find; I rather post just once per day on the web and then do everything else on GitHub, because GitHub is made for fast iteration and continuous delivery, which is how I am viewing and conceptualizing my art practice of the [__*ART OPERATION*__](https://github.com/antiface/ArtOpsInABox/tree/ArtOpsInABox-v.1.0.2) more and more;
 * I need people to visit these repositories more and hopefully someday I can have some actual collaboration, though I would be happy with just having a few people following me and reading my stuff; I am still unknown to virtually everyone; it saddens me to some extent, but I get the feeling that people will become more interested in what I do as society continues to grow more and more *"lukewarm"*; people will start looking for __*Truth & Beauty*__ anywhere that they can find it, and my work will be sold at a premium; someone can always dream, can't they?;
 * That's it for now, that's the update for the __*LOGFILE*__;
+
+03:03 2024-12-07
+
+* I've been living a pretty low-key life for the last 6-7 months or so;
+* I've been productive as an interdisciplinary artist-researcher, but not as much as last May, 2024;
+* I've been doing exercise semi-regularly, trying to eat more balanced meals, and also trying to adhere to a strict budget;
+* It's all about optimizing my life to my restricted resources, to try to thrive so I can continue my many art-research projects;
 * *More to come...*
 
 - - - - - - -
