@@ -75,6 +75,28 @@ LOG
 
 - - - - - - -
 
+### LOG_2025
+
+16:53:01 2025-10-13
+
+* I had a really, extremely prolific production period from around November, 2024, until about April, 2025;
+* Ever since, I've been on unofficial hiatus, documenting and logging as much as possible from my productive period;
+* I've documented the processes and practices and the works that came out of that period in several locations online;
+* I've been working with some new conceptual schemes, some new projects;
+* I have been keeping logs for ages; I kept logs of what I call "TabSets" for at least 10 years;
+* I keep a log of all the tabs I have open on my computer(s) at any given time;
+* That is, I use the browser, opening up new tabs all the time, but when I get to 20-30 tabs, I copy them as a list to a Gist on GitHub and also in a logfile on my computer;
+* Then I collapse the tabs and start the process over; in this process, there are duplicates, but that's important, that's an important "signal" of the relevance or pertinence of a given web resource;
+* Now I found that I can take these lists of TabSets which are all timestamped and feed them to Large Language Models (LLMs) and get the LLM to extract conceptual material, thematic material, from the logs;
+* I have currently finished doing this with all my logs going back to 2020, and a 300-page document came out of it;
+* I have logs, though, of TabSets, from the other computer, my laptop, so I will do those next;
+* Redundancy is your friend; also, having multiple logs is best, and timestamping all your logs is also an optimal practice;
+* Doing this, using this method, I haven't lost a single URL or web resource in the last 10 years;
+* Sometimes they are hard to find, but I eventually always find what I am looking for;
+* More on all of this and much more, soon, I promise (unofficially);
+
+- - - - - - -
+
 ## [BACK TO INDEX OF REPOSITORIES](https://github.com/antiface/Index)
 
 [A.G. (c) 2024. ![A.G. (c) 2024. All Rights Reserved](https://historiotheque.files.wordpress.com/2016/11/ag_signature_official_2015_50px_cropped.jpg) All Rights Reserved.](http://alexgagnon.com)
